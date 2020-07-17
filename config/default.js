@@ -8,5 +8,8 @@ module.exports = {
     path: {
         localWorkPath: /.*apple1\/project\/(.*)/,
         remoteWorkPath: '/home/ubuntu/project/',
-    }
+    },
+    watcherPath:[
+        '/Users/apple1/project/tbl-replatform-api'
+    ]
 };
